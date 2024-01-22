@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+#timeOut {
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+#scram {
+    font-family: monospace;
+    font-size: 25px;
+}
+
+#clear {
+    font-family: monospace;
+}
+
+#solveNum {
+    font-family: monospace;
+}
+
+#overallAv {
+    font-family: monospace;
+}
+
+#fastest {
+    font-family: monospace;
+}
